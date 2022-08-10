@@ -1,0 +1,207 @@
+div {
+    margin:0;
+}
+p {
+    margin: 0;
+}
+
+body {
+    margin: 0;
+    text-align: center;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.sectionOne {
+    background-color: #072227;
+    margin-top: 0;
+
+
+}
+
+a {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color:#072227;
+    margin:2em;
+    text-decoration: none;
+    padding-bottom: 2em;
+}
+
+.header {
+    background-color: #35858B;
+}
+
+.sectionOne p {
+    color: #4FBDBA;
+}
+
+.middle-container {
+    background-color: #AEFEFF;
+    text-align: center;
+
+}
+
+.bottom-container {
+    background-color: #35858B;
+    padding-top: 50px;
+
+}
+
+
+hr {
+    border-style: dotted none none;
+    width: 10%;
+    border-color: #072227;
+    border-width: 10px;
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+
+#profilePicHeader {
+    border-radius: 100%;
+    position: absolute;
+    margin: 1em;
+    width: 100px;
+    text-align: none;
+}
+
+#profilePicBG {
+    position: relative;
+    width: 133px;
+}
+
+#frame {
+    background-color: #072227;
+    text-align: center;
+    height:800px;
+
+}
+
+a:hover {
+    color: #4FBDBA;
+}
+
+h2,
+h3,
+h4,
+h5,
+h6 {
+  color: #4FBDBA;
+}
+
+h1 {
+    font-size: 500%;
+    color: #4FBDBA;
+
+}
+
+.imCyrus {
+    position: relative;
+    margin: auto;
+    padding-top: 100px;
+    width: 40%;
+}
+
+#bgImg {
+    width: 100%;
+    object-fit: cover;
+    height: 400px;
+    margin-top: 20px;
+}
+
+#aProgrammer {
+    position: relative;
+    text-align: center;
+    margin: 0;
+    margin-top: 30px;
+}
+
+.top-cloud {
+    text-align: center;
+    position:absolute;
+    padding-left:250px;
+    padding-top: 50px;
+}
+
+.bottom-cloud {
+    text-align: center;
+    position:absolute;
+    padding-left:70px;
+    padding-top: 20px;
+}
+
+.mountain {
+    position: relative;
+}
+
+.info {
+    text-align: center;
+    position: relative;
+
+}
+
+.table {
+    margin-left: auto;
+    margin-right: auto;
+    padding-top: 10px;
+}
+
+.skill-row {
+    width: 50%;
+    margin: 100px auto 100px auto;
+    text-align: left;
+    line-height: 2em;
+
+}
+
+.sfLogo {
+    height: 150px;
+    float:left;
+    margin: 20px;
+}
+
+.cyberIcon {
+    height: 200px;
+    float:right;
+    margin: 20px;
+
+
+}
+
+.contact-me {
+    margin-top: 50px;
+    height:100px;
+}
+
+.btn {
+    background: #3498db;
+    background-image: -webkit-linear-gradient(top, #3498db, #2980b9);
+    background-image: -moz-linear-gradient(top, #3498db, #2980b9);
+    background-image: -ms-linear-gradient(top, #3498db, #2980b9);
+    background-image: -o-linear-gradient(top, #3498db, #2980b9);
+    background-image: linear-gradient(to bottom, #3498db, #2980b9);
+    -webkit-border-radius: 60;
+    -moz-border-radius: 60;
+    border-radius: 60px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color: #072227;
+    font-size: 20px;
+    padding: 11px 20px 10px 20px;
+    border: solid #b5fff5 3px;
+    text-decoration: none;
+    margin: 5em;
+    position: relative;
+
+  }
+  
+  .btn:hover {
+    background: #3cb0fd;
+    background-image: -webkit-linear-gradient(top, #3cb0fd, #235170);
+    background-image: -moz-linear-gradient(top, #3cb0fd, #235170);
+    background-image: -ms-linear-gradient(top, #3cb0fd, #235170);
+    background-image: -o-linear-gradient(top, #3cb0fd, #235170);
+    background-image: linear-gradient(to bottom, #3cb0fd, #235170);
+    text-decoration: none;
+  }
+
+  .copyright {
+    margin-top: 20px;
+  }
